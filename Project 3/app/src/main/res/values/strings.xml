@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test2</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+
+    <string name="app_header">Justin Nguyen</string>
+    <string name="app_footer">Tap buttons below to change the image</string>
+</resources>

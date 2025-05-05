@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Purple shades -->
+    <color name="purple_background">#673AB7</color>
+    <color name="purple_200">#B39DDB</color>
+
+    <!-- https://htmlcolorcodes.com/color-chart/material-design-color-chart/ -->
+    <color name="red_button">#FF5252</color>
+    <color name="green_button">#4CAF50</color>
+    <color name="blue_button">#2196F3</color>
+
+    <color name="red_background">#FFCDD2</color>
+    <color name="green_background">#C8E6C9</color>
+    <color name="blue_background">#BBDEFB</color>
+
+    <color name="red_m3">#F44336</color>  <!-- Material Red 500 -->
+    <color name="red_container">#FFEBEE</color>  <!-- Red container -->
+    <color name="on_red_container">#B71C1C</color>  <!-- Text/icon on red -->
+
+    <color name="green_m3">#4CAF50</color>  <!-- Material Green 500 -->
+    <color name="green_container">#E8F5E9</color>  <!-- Green container -->
+    <color name="on_green_container">#2E7D32</color>  <!-- Text/icon on green -->
+
+    <color name="blue_m3">#2196F3</color>  <!-- Material Blue 500 -->
+    <color name="blue_container">#E3F2FD</color>  <!-- Blue container -->
+    <color name="on_blue_container">#0D47A1</color>  <!-- Text/icon on blue -->
+</resources>
